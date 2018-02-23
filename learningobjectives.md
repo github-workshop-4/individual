@@ -1,5 +1,6 @@
-#Learning objectives
+# Learning objectives
+## New information
 - Remotes
--GitHub
--Networking activity
--Branches
+- GitHub
+- Networking activity
+- Branches
